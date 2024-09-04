@@ -440,4 +440,6 @@ FORM f_transfer_flag_file  USING    p_lt_line_done TYPE ty_t_line
     ENDLOOP.
   ENDIF.
   CLOSE DATASET lv_path_filename.
+
+  "Add: Christina for testing
 ENDFORM.
