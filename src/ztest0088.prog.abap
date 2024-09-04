@@ -6,3 +6,4 @@
 REPORT ZTEST0088.
 
 "line 1
+"line 2
