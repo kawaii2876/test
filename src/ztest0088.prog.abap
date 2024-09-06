@@ -8,3 +8,6 @@ REPORT ZTEST0088.
 "line 1
 *line2
 *line3
+
+*line 7
+*line 8
