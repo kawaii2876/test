@@ -9,5 +9,9 @@ REPORT ZTEST0088.
 *line2
 *line3
 
+
 *line 7
 *line 8
+
+*line4
+
